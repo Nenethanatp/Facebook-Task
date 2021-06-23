@@ -1,0 +1,177 @@
+body {
+ font-family: 'Open Sans', sans-serif;
+
+  margin: 0;
+  letter-spacing: 1px;
+  height:100%;
+
+}
+
+.Left {
+  position: absolute;
+  margin-left: 0;
+  width: 250px;
+  background-color: black;
+  margin: 0;
+  color: white;
+
+
+}
+
+.left-icon {
+  width: 12px;
+  float: left;
+  margin: 5px 10px;
+}
+
+.Home {
+  background-color: #FFC300;
+  padding: 10px;
+}
+
+.Home1 {
+  margin: 0;
+  font-weight: 600;
+}
+
+.Profile {
+  background-color: #53534F;
+
+}
+
+.Ne {
+  padding: 10px;
+  padding-bottom: 5px;
+  width: 90%;
+  border-radius: 10%;
+}
+
+.margin0 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.margin1 {
+  margin: 0 auto 15px auto;
+  text-align: center;
+}
+
+.Bold0 {
+  font-weight: 800;
+  font-size: 1.4rem;
+}
+
+.data {
+  padding-left: 20px;
+  line-height: 1.8;
+  margin: 0;
+}
+
+.down {
+  width: 12px;
+  margin-left: 2px;
+}
+
+.Data2 {
+  margin-left: 40px;
+  line-height: 1.8;
+}
+
+.NoMargin {
+  margin: 0;
+}
+
+.Right {
+  background-color: RGB(230, 235, 236);
+  margin-left: 250px;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.Large {
+  color: black;
+  font-size: 2rem;
+  font-weight: 800;
+  padding: 15px 12px 0;
+}
+
+.post {
+  margin: 10px;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 3px 3px 3px #B9BFBF;
+  border-radius: 5px;
+
+}
+
+.name {
+  color: #62AED4;
+  text-decoration: underline;
+  margin: 5px 5px 0;
+}
+
+.NormalText {
+  color: black;
+  margin: 0 ;
+  line-height: 18px
+
+}
+
+.time {
+  margin: 0 5px;
+  font-weight: 400;
+  color: grey;
+}
+
+.PostData {
+  margin: 0 5px 0 40px;
+}
+
+.downright {
+  width: 10px;
+  float: right;
+ margin-top: 5px ;
+}
+
+.NePost {
+  position: absolute;
+  width: 35px;
+
+    border: 0.05px solid #A8B0B1;
+}
+
+.SquareImg {
+  object-fit: cover;
+  border: 0.05px solid #A8B0B1;
+  margin: 0 3px;
+  width: 180px;
+  height: 180px;
+}
+
+.center {
+  margin: 5px 0;
+}
+
+.like {
+  width: 20px;
+  float: left;
+  margin-right: 3px;
+}
+
+.line {
+  border: 0.05px solid #A8B0B1;
+}
+.CommentText{
+  margin-left: 40px;
+}
+.WriteComment{color:
+
+ #737373;}
+.pencil{
+  width: 14px;
+  float: left;
+  margin-top: 2px;
+  margin-right: 10px;
+}
+.mypost{margin:5px 5px;}
+.space{line-height: 22px;}
